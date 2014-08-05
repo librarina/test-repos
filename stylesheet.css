@@ -1,0 +1,62 @@
+#iframe{
+	margin-right: 15px;
+}
+
+h2{
+	margin: 0px 20px 10px 20px;
+	padding-top: 10px;
+ 
+}
+h2 small{
+	color: lightgrey;
+}
+header{
+	position: fixed;
+	top: 0px;
+	width: 100%;
+	background-color: purple;
+	color: white;
+	box-shadow: 3px 3px 2px orange;
+}
+img{
+width: 200px;
+border-radius: 50%;
+border: 2px solid purple;
+margin-left: 20px;
+}
+.row{
+	margin-top: 80px;
+	padding-top: 10px;
+}
+.main div{
+	padding-left: 20px;
+	padding-top: 10px;
+}
+.social div{
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-top: 10px;
+}
+hr{
+	height: 5px;
+	border-radius: 10px;
+	margin: 50px;
+	/*opacity: 0.5;*/
+	background-color: purple;
+	box-shadow: 2px 2px 1px orange;
+
+}
+#left{
+	display: inline;
+	margin: 0px;
+}
+#right{
+	display: inline;
+    margin: 0px;
+    float: right;
+}
+.twitter-share-button{
+	margin-right: 20px;
+}
+
+
